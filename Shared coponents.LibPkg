@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=logos.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SSSEKRHT
+
+[Document2]
 DocumentPath=tobre-schematics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXCYCYLX
 
-[Document2]
+[Document3]
 DocumentPath=tobre-components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHIHWFTF
 
-[Document3]
+[Document4]
 DocumentPath=common-components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWFYFHQV
 
-[Document4]
+[Document5]
 DocumentPath=common-schematics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
